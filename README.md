@@ -13,8 +13,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </div>
 </td></tr></table>
-
-https://camo.githubusercontent.com/88fd52e2013fdf960a0d264bf445d6b0bf1ef3ad777a5e968ed9ae60f679182f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b617261636167757262757a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
 
 
 
