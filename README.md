@@ -13,7 +13,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </div>
 </td></tr></table>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karacagurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
 
 
 
