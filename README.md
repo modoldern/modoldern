@@ -3,11 +3,11 @@
 ## *Skills*
 <table><tr><td valign="top">
 <div align="center">  
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="html.svg" alt="HTML5" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="css.svg" alt="CSS3" height="40" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img src="tailwindcss.png" alt="Tailwind CSS" height="40" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img src="js.svg" alt="JavaScript" height="40" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="php.svg" alt="PHP" height="40" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="html.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="css.svg" alt="CSS3" height="40" /></a>&nbsp;
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="tailwindcss.png" alt="Tailwind CSS" height="40" /></a>&nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img src="js.svg" alt="JavaScript" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="php.svg" alt="PHP" height="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank"><img src="git.svg" alt="Git" height="40" /></a>
 </div>
 </td></tr></table>
